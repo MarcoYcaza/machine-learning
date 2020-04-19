@@ -1,0 +1,2 @@
+- Mapeo de click a puntos
+- Algoritmo resolución PCA-2D
